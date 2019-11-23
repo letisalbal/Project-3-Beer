@@ -1,0 +1,41 @@
+id,name,brewery_type,street,city,state,postal_code,country,longitude,latitude,phone,website_url,updated_at
+1,Adirondack Toboggan Company Microbrewery,micro,202A W Main St,Gouverneur,New York,13642-1334,United States,-75.47489238,44.33237311,3157716313,http://www.adktoboggan.net,2018-08-24T15:37:58.899Z
+2,Black Forest Brew Haus,brewpub,2015 New Hwy,Farmingdale,New York,11735-1103,United States,-73.41443291,40.7550515,6313919500,http://www.blackforestbrewhaus.com,2018-08-24T15:38:10.962Z
+3,Blue Point Brewing Co,large,161 River Ave,Patchogue,New York,11772-3304,United States,-73.0216063,40.75913445,6314756944,http://www.bluepointbrewing.com,2018-08-24T15:38:13.401Z
+4,Brown's Brewing Co,brewpub,50 Factory Hill Rd,North Hoosick,New York,12133,United States,-73.34515821,42.92661444,5182732337,http://www.brownsbrewing.com,2018-08-24T15:38:21.495Z
+5,Carey's Brew House,brewpub,58 Bridge St,Corning,New York,14830-2239,United States,-77.06089704,42.15025771,6073775651,http://www.careysbrewhouse.com,2018-08-24T15:38:26.698Z
+6,Copper City Brewing Company,micro,1111 Oneida St,Rome,New York,13440,United States,-75.43229951,43.20521338,3152818987,http://www.coppercitybrewing.com,2018-08-24T15:38:35.002Z
+7,Diversion Brewing Co,micro,729 Wyncoop Creek Rd,Chemung,New York,14825-9755,United States,-76.62211,42.019871,6075429168,http://www.diversionbrewing.com,2018-08-24T15:38:44.350Z
+8,Empire Brewing Co,brewpub,120 Walton St,Syracuse,New York,13202-1571,United States,-76.15406625,43.04804637,3156552337,http://www.empirebrew.com,2018-08-24T15:38:47.848Z
+9,Erie Canal Brewing Company,micro,135 S Peterboro St,Canastota,New York,13032-1409,United States,-75.75153202,43.07857637,3155105001,http://www.eriecanalbrewingcompany.com,2018-08-24T15:38:49.380Z
+10,Fairport Brewing Co,micro,99 S Main St,Fairport,New York,14450-2100,United States,-77.4416792,43.0988098,5857520613,http://www.fairportbrewing.com,2018-08-24T15:38:50.407Z
+11,Flying Bison Brewing Co,micro,840 Seneca St,Buffalo,New York,14210-1414,United States,-78.8458326,42.8758185,7168731557,http://www.flyingbisonbrewing.com,2018-08-24T15:38:57.237Z
+12,Glenmere Brewing Co,micro,55 Maple Ave,Florida,New York,10921-1124,United States,-74.360033,41.335404,8456511939,http://www.glenmerebrewingco.com,2018-08-24T15:39:06.969Z
+13,"Greenport Harbor Brewing Co, LLC",brewpub,42155 Main Rd,Peconic,New York,11958-1502,United States,-72.4545703,41.0415525,6315139019,http://www.harborbrewing.com,2018-08-24T15:39:11.817Z
+14,Gun Hill Brewing Co,micro,3227 Laconia Ave,Bronx,New York,10469-1403,United States,-73.855814,40.8721114,7188810010,http://www.gunhillbrewing.com,2018-08-24T15:39:13.763Z
+15,Irish Mafia Brewing Co,brewpub,2971 Whalen Rd,Bloomfield,New York,14469-9786,United States,-77.38938696,42.89268134,5852715172,http://www.irishmafiabrewing.com,2018-08-24T15:39:24.759Z
+16,Lafayette Brewing Co,brewpub,391 Washington St,Buffalo,New York,14203-2108,United States,-78.8734526,42.8847967,7168560062,http://www.panamericangrill.com,2018-08-24T15:39:32.439Z
+17,Lost Kingdom Brewery / Firehouse Distillery,micro,7160 Main St,Ovid,New York,14521-9401,United States,-76.82281329,42.67724221,6074034020,http://www.firehousedistillery.net,2018-08-24T15:39:40.111Z
+18,Peacemaker Brewing Company,micro,20 Pleasant St,Canandaigua,New York,14424-2047,United States,-77.27866055,42.88851165,5853963561,http://www.peacemakerbrewing.com,2018-08-24T15:39:52.762Z
+19,Pressure Drop Brewing,micro,65 Vandalia St,Buffalo,New York,14204-2739,United States,-78.86103739,42.86640421,7168489942,http://www.barrelfactory.com,2018-08-24T15:39:56.430Z
+20,Rohrbach's Railroad St Brewery,micro,97 Railroad St,Rochester,New York,14609-6039,United States,-77.586694,43.163275,5855468020,http://www.rohrbachs.com,2018-08-24T15:40:06.518Z
+21,Birravino,brewpub,83 Riverside Ave,Red Bank,New Jersey,07701-1015,United States,-74.07536238,40.35352565,7328425990,http://www.birravino.com,2018-08-24T15:36:31.454Z
+22,Bucket Brigade Brewery,micro,205 N Main St,Cape May Court House,New Jersey,08210-2121,United States,-74.81946353,39.086856,6097782641,http://www.bucketbrigadebrewery.com,2018-08-24T15:36:35.302Z
+23,Eight and Sand Beer Co,micro,1003 N Evergreen Ave,Woodbury,New Jersey,08096-,United States,-75.14222034,39.84934725,8565371339,http://www.eightandsandbeer.com,2018-08-24T15:36:45.871Z
+24,Harvest Moon Brewery/Cafe,brewpub,392 George St,New Brunswick,New Jersey,08901-2018,United States,-74.4442058,40.4962516,7322496666,http://www.harvestmoonbrewery.com,2018-08-24T15:36:49.887Z
+25,Lower Forge Brewery,micro,14 S Main St,Medford,New Jersey,08055-2414,United States,-74.82362556,39.89909629,6099759532,http://www.lowerforge.com,2018-08-24T15:36:58.210Z
+26,Third State Brewing,micro,352 High St,Burlington,New Jersey,08016-4412,United States,-74.85841925,40.07803141,6093871620,http://www.thirdstatebrewing.com,2018-08-24T15:37:07.658Z
+27,Three 3's Brewery,micro,50 13th St,Hammonton,New Jersey,08037-1559,United States,-74.81147261,39.6385625,7328141396,http://www.three3sbrewing.com,2018-08-24T15:37:08.107Z
+28,Trap Rock Restaurant And Brewery,brewpub,279 Springfield Ave,Berkeley Heights,New Jersey,07922-1214,United States,-74.43481217,40.6890382,9086651755,http://www.traprockrestaurant.net,2018-08-24T15:37:09.472Z
+29,Descendants Brewing Company,brewpub,61 Bridge St,Milford,New Jersey,08848-1264,United States,-75.095372,40.568461,,,2018-08-24T15:36:43.487Z
+30,7 Mile Brewery,micro,3156 Route 9 South Ste 1-2,Rio Grande,New Jersey,08242-,United States,,,6093657777,http://www.7milebrew.com,2018-08-11T21:38:21.596Z
+31,Angry Erik Brewing,micro,10 Millpond Dr Unit 8,Lafayette,New Jersey,07848-3825,United States,,,8624329003,http://www.angryerik.com,2018-08-11T21:38:21.623Z
+32,Anheuser-Busch Inc Newark,large,200 US Highway 1,Newark,New Jersey,07114-2298,United States,,,9736457700,http://www.anheuser-busch.com,2018-08-11T21:38:21.658Z
+33,Artisan Owl Brewing Company,planning,,Ocean City,New Jersey,08226-4237,United States,,,2157402057,,2018-08-11T21:38:21.693Z
+34,Axe And Arrow Brewery,planning,,Glassboro,New Jersey,08028-,United States,,,,,2018-08-11T21:38:21.865Z
+35,Backman Brewing Company,planning,,Whitehouse Station,New Jersey,08889-3562,United States,,,,http://backmanbrewing.com,2018-08-11T21:38:21.906Z
+36,Belford Brewing Company,micro,84 Leonardville Rd,Belford,New Jersey,07718-1144,United States,,,7327697168,http://www.belfordbrewing.com,2018-08-11T21:38:22.013Z
+37,Artisan's Brewery and Italian Grill,brewpub,1171 Hooper Ave,Toms River,New Jersey,08753-8305,United States,-74.1880387,39.9625642,7322447566,http://www.artisanstomsriver.com,2018-08-24T15:36:27.901Z
+38,Asbury Park Brewery,micro,810 Sewall Ave,Asbury Park,New Jersey,07712-6527,United States,-74.01229282,40.21956661,7324555571,http://www.asburyparkbrewery.com,2018-08-24T15:36:28.413Z
+39,Atco Brewing LLC,micro,302 White Horse Pike,Atco,New Jersey,08004-2209,United States,-74.89973165,39.77167345,6097072628,http://Www.atcobrewingcompany.com,2018-08-24T15:36:28.989Z
+40,Beach Haus Brewery,micro,801 Main St,Belmar,New Jersey,07719-2705,United States,-74.0251959,40.1812131,7322027782,http://Www.beachhausbeer.com,2018-08-24T15:36:29.975Z
