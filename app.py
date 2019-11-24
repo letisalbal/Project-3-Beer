@@ -18,7 +18,7 @@
 # # Database Setup
 # #################################################
 
-# app.config["SQLALCHEMY_DATABASE_URI"] = "sqlite:///db/beer.sqlite"
+# app.config["SQLALCHEMY_DATABASE_URI"] = "sqlite:///db/Beer_Project.sqlite"
 # db = SQLAlchemy(app)
 
 # # reflect an existing database into a new model
