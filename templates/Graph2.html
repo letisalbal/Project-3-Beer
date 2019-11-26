@@ -8,7 +8,7 @@
 <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
 
 <!-- Create a div where the graph will take place -->
-<div id="my_dataviz"></div>
+<div id="chart2"></div>
 
 <!-- A bit of CSS: change stroke color of circle on hover (white -> black) -->
 <style>
@@ -30,7 +30,7 @@
         height = 420 - margin.top - margin.bottom;
     
     // append the svg object to the body of the page
-    var svg = d3.select("#my_dataviz")
+    var svg = d3.select("chart2")
       .append("svg")
         .attr("width", width + margin.left + margin.right)
         .attr("height", height + margin.top + margin.bottom)
@@ -91,7 +91,7 @@
       // ---------------------------//
     
       // -1- Create a tooltip div that is hidden by default:
-      var tooltip = d3.select("#my_dataviz")
+      var tooltip = d3.select("chart2")
         .append("div")
           .style("opacity", 0)
           .attr("class", "tooltip")
