@@ -1,1 +1,1 @@
-#web: gunicorn "name".app:app
+web: gunicorn columbiabeer.app:app

@@ -1,6 +1,3 @@
-
-
-
 CREATE TABLE beerStyle (
 	id SERIAL PRIMARY KEY,
 	name VARCHAR,

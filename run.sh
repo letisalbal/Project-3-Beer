@@ -1,1 +1,1 @@
-# FLASK_APP="name"/app.py flask run
+# FLASK_APP="columbiabeer"/app.py flask run

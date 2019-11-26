@@ -8,7 +8,7 @@
 <div id="chart3"></div>
 
 <script>
-
+//Brewery_type
 
     // set the dimensions and margins of the graph
     var margin = {top: 10, right: 30, bottom: 90, left: 40},
@@ -16,7 +16,7 @@
         height = 450 - margin.top - margin.bottom;
     
     // append the svg object to the body of the page
-    var svg = d3.select("chart3")
+    var svg3 = d3.select("chart3")
       .append("svg")
         .attr("width", width + margin.left + margin.right)
         .attr("height", height + margin.top + margin.bottom)
@@ -32,7 +32,7 @@
       .range([ 0, width ])
       .domain(data.map(function(d) { return d.Country; }))
       .padding(0.2);
-    svg.append("g")
+    svg3.append("g")
       .attr("transform", "translate(0," + height + ")")
       .call(d3.axisBottom(x))
       .selectAll("text")
@@ -43,11 +43,11 @@
     var y = d3.scaleLinear()
       .domain([0, 13000])
       .range([ height, 0]);
-    svg.append("g")
+    svg3.append("g")
       .call(d3.axisLeft(y));
     
     // Bars
-    svg.selectAll("mybar")
+    svg3.selectAll("mybar")
       .data(data)
       .enter()
       .append("rect")
@@ -59,7 +59,7 @@
         .attr("y", function(d) { return y(0); })
     
     // Animation
-    svg.selectAll("rect")
+    svg3.selectAll("rect")
       .transition()
       .duration(800)
       .attr("y", function(d) { return y(d.Value); })
