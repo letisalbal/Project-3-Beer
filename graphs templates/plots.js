@@ -1,8 +1,8 @@
 //Brewery NYS Location Bar Chart
 var trace = {
-    x: ["brewerypub", "large", "micro"],
+    x: ["Brewery Pub", "Large", "Micro"],
     y: [7, 1, 12],
-    type: 'bar'
+    type: 'bar',
   };
   
   var data = [trace];
