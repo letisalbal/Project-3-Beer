@@ -18,13 +18,13 @@
     
     // Map and projection
     var projection1 = d3.geoMercator()
-        .center([43.163275, -77.586694]) // GPS of location to zoom on
+        .center([43.2994, 74.2179]) // GPS of location to zoom on
         .scale(99) // This is like the zoom
         .translate([ width/2, height/2 ])
     
     d3.queue()
-      .defer(d3.csv, "beerStyle.csv")  // Position of circles
-      .defer(d3.json, "templates/location.json") // World shape
+      .defer(d3.csv, "data/craft-cans/breweries.csv")  // Position of circles
+      .defer(d3.json, "graphs templates/location.json") // World shape
       .await(ready);
     
     function ready(error, dataGeo, data) {
