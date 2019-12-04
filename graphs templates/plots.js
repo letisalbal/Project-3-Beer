@@ -1,8 +1,8 @@
 //Brewery Location Pie Chart
 var trace = {
-    labels: ["brewerypub", "large", "micro"],
-    values: [7, 1, 12],
-    type: 'pie'
+    x: ["brewerypub", "large", "micro"],
+    y: [7, 1, 12],
+    type: 'bar'
   };
   
   var data = [trace];
@@ -11,6 +11,7 @@ var trace = {
     title: "Brewery Locations in NY",
     xaxis: { title: "Brewery Type"},
     yaxis: { title: "Count"}
+
   };
   
   Plotly.newPlot("plot3", data, layout);
