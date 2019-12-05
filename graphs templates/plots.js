@@ -1,4 +1,4 @@
-//Brewery Location Pie Chart
+//Brewery NYS Location Bar Chart
 var trace = {
     x: ["brewerypub", "large", "micro"],
     y: [7, 1, 12],
