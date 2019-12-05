@@ -7,7 +7,7 @@ var trace1 = {
         3, 4, 5, 23, 7, 9, 32, 12, 9, 2, 9, 19, 1, 5, 3, 3, 4, 2, 16,
         15, 6, 29, 25, 5, 4, 1, 3, 28, 4, 16, 10, 23, 20, 1, 4],
     type: 'bar',
-    marker: {color: 'orange'}
+    marker: {color: 'green'}
 };
 
 var data = [trace1];
