@@ -1,1 +1,0 @@
-# FLASK_APP="columbiabeer"/app.py flask run
